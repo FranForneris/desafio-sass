@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(90deg, #7dfaff 0%, #868eff 100%);
+  font-family: 'Roboto', sans-serif; }
+
+header .navbar-light {
+  background-color: #1f3086; }
+  header .navbar-light .navbar-nav .nav-link {
+    color: whitesmoke;
+    font-size: 30px; }
+
+p {
+  font-size: 20px; }
